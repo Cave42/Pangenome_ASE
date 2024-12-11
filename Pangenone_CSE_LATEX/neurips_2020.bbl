@@ -1,0 +1,102 @@
+\begin{thebibliography}{12}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Castel et~al.(2015)Castel, Levy-Moonshine, Mohammadi, Banks, and Lappalainen]{Castel_2015}
+Stephane~E. Castel, Ami Levy-Moonshine, Pejman Mohammadi, Eric Banks, and Tuuli Lappalainen.
+\newblock Tools and best practices for data processing in allelic expression analysis.
+\newblock \emph{Genome Biology}, 16\penalty0 (1), September 2015.
+\newblock ISSN 1474-760X.
+\newblock \doi{10.1186/s13059-015-0762-6}.
+\newblock URL \url{http://dx.doi.org/10.1186/s13059-015-0762-6}.
+
+\bibitem[Castel et~al.(2016)Castel, Mohammadi, Chung, Shen, and Lappalainen]{Castel_2016}
+Stephane~E. Castel, Pejman Mohammadi, Wendy~K. Chung, Yufeng Shen, and Tuuli Lappalainen.
+\newblock Rare variant phasing and haplotypic expression from rna sequencing with phaser.
+\newblock \emph{Nature Communications}, 7\penalty0 (1), September 2016.
+\newblock ISSN 2041-1723.
+\newblock \doi{10.1038/ncomms12817}.
+\newblock URL \url{http://dx.doi.org/10.1038/ncomms12817}.
+
+\bibitem[Chang et~al.(2019)Chang, Eizenga, Novak, Sir{\'e}n, and Paten]{Chang_2019}
+Xian Chang, Jordan Eizenga, Adam~M. Novak, Jouni Sir{\'e}n, and Benedict Paten.
+\newblock Distance indexing and seed clustering in sequence graphs.
+\newblock December 2019.
+\newblock \doi{10.1101/2019.12.20.884924}.
+\newblock URL \url{http://dx.doi.org/10.1101/2019.12.20.884924}.
+
+\bibitem[Chen et~al.(2021)Chen, Solomon, Mun, Iyer, and Langmead]{Chen_2021}
+Nae-Chyun Chen, Brad Solomon, Taher Mun, Sheila Iyer, and Ben Langmead.
+\newblock Reference flow: reducing reference bias using multiple population genomes.
+\newblock \emph{Genome Biology}, 22\penalty0 (1), January 2021.
+\newblock ISSN 1474-760X.
+\newblock \doi{10.1186/s13059-020-02229-3}.
+\newblock URL \url{http://dx.doi.org/10.1186/s13059-020-02229-3}.
+
+\bibitem[Dobin et~al.(2012)Dobin, Davis, Schlesinger, Drenkow, Zaleski, Jha, Batut, Chaisson, and Gingeras]{Dobin_2012}
+Alexander Dobin, Carrie~A. Davis, Felix Schlesinger, Jorg Drenkow, Chris Zaleski, Sonali Jha, Philippe Batut, Mark Chaisson, and Thomas~R. Gingeras.
+\newblock Star: ultrafast universal rna-seq aligner.
+\newblock \emph{Bioinformatics}, 29\penalty0 (1):\penalty0 15--21, October 2012.
+\newblock ISSN 1367-4803.
+\newblock \doi{10.1093/bioinformatics/bts635}.
+\newblock URL \url{http://dx.doi.org/10.1093/bioinformatics/bts635}.
+
+\bibitem[Garrison et~al.(2018)Garrison, Sir{\'e}n, Novak, Hickey, Eizenga, Dawson, Jones, Garg, Markello, Lin, Paten, and Durbin]{Garrison_2018}
+Erik Garrison, Jouni Sir{\'e}n, Adam~M Novak, Glenn Hickey, Jordan~M Eizenga, Eric~T Dawson, William Jones, Shilpa Garg, Charles Markello, Michael~F Lin, Benedict Paten, and Richard Durbin.
+\newblock Variation graph toolkit improves read mapping by representing genetic variation in the reference.
+\newblock \emph{Nature Biotechnology}, 36\penalty0 (9):\penalty0 875{\^a}--879, October 2018.
+\newblock ISSN 1546-1696.
+\newblock \doi{10.1038/nbt.4227}.
+\newblock URL \url{http://dx.doi.org/10.1038/nbt.4227}.
+
+\bibitem[Loh et~al.(2016)Loh, Danecek, Palamara, Fuchsberger, A~Reshef, K~Finucane, Schoenherr, Forer, McCarthy, Abecasis, Durbin, and L~Price]{Loh_2016}
+Po-Ru Loh, Petr Danecek, Pier~Francesco Palamara, Christian Fuchsberger, Yakir A~Reshef, Hilary K~Finucane, Sebastian Schoenherr, Lukas Forer, Shane McCarthy, Goncalo~R Abecasis, Richard Durbin, and Alkes L~Price.
+\newblock Reference-based phasing using the haplotype reference consortium panel.
+\newblock \emph{Nature Genetics}, 48\penalty0 (11):\penalty0 1443--1448, October 2016.
+\newblock ISSN 1546-1718.
+\newblock \doi{10.1038/ng.3679}.
+\newblock URL \url{http://dx.doi.org/10.1038/ng.3679}.
+
+\bibitem[McKenna et~al.(2010)McKenna, Hanna, Banks, Sivachenko, Cibulskis, Kernytsky, Garimella, Altshuler, Gabriel, Daly, and DePristo]{McKenna_2010}
+Aaron McKenna, Matthew Hanna, Eric Banks, Andrey Sivachenko, Kristian Cibulskis, Andrew Kernytsky, Kiran Garimella, David Altshuler, Stacey Gabriel, Mark Daly, and Mark~A. DePristo.
+\newblock The genome analysis toolkit: A mapreduce framework for analyzing next-generation dna sequencing data.
+\newblock \emph{Genome Research}, 20\penalty0 (9):\penalty0 1297--1303, July 2010.
+\newblock ISSN 1088-9051.
+\newblock \doi{10.1101/gr.107524.110}.
+\newblock URL \url{http://dx.doi.org/10.1101/gr.107524.110}.
+
+\bibitem[Mohammadi et~al.(2019{\natexlab{a}})Mohammadi, Castel, Cummings, Einson, Sousa, Hoffman, Donkervoort, Jiang, Mohassel, Foley, Wheeler, Im, Bonnemann, MacArthur, and Lappalainen]{Mohammadi_2019_Science}
+Pejman Mohammadi, Stephane~E. Castel, Beryl~B. Cummings, Jonah Einson, Christina Sousa, Paul Hoffman, Sandra Donkervoort, Zhuoxun Jiang, Payam Mohassel, A.~Reghan Foley, Heather~E. Wheeler, Hae~Kyung Im, Carsten~G. Bonnemann, Daniel~G. MacArthur, and Tuuli Lappalainen.
+\newblock Genetic regulatory variation in populations informs transcriptome analysis in rare disease.
+\newblock \emph{Science}, 366\penalty0 (6463):\penalty0 351356, October 2019{\natexlab{a}}.
+\newblock ISSN 1095-9203.
+\newblock \doi{10.1126/science.aay0256}.
+\newblock URL \url{http://dx.doi.org/10.1126/science.aay0256}.
+
+\bibitem[Mohammadi et~al.(2019{\natexlab{b}})Mohammadi, Castel, Cummings, Einson, Sousa, Hoffman, Donkervoort, Mohassel, Foley, Wheeler, Im, Bonnemann, MacArthur, and Lappalainen]{Mohammadi_2019_Cold_Spring}
+Pejman Mohammadi, Stephane~E. Castel, Beryl~B. Cummings, Jonah Einson, Christina Sousa, Paul Hoffman, Sandra Donkervoort, Payam Mohassel, Reghan Foley, Heather~E. Wheeler, Hae~Kyung Im, Carsten~G. Bonnemann, Daniel~G. MacArthur, and Tuuli Lappalainen.
+\newblock Quantifying genetic regulatory variation in human populations improves transcriptome analysis in rare disease patients.
+\newblock May 2019{\natexlab{b}}.
+\newblock \doi{10.1101/632794}.
+\newblock URL \url{http://dx.doi.org/10.1101/632794}.
+
+\bibitem[Sibbesen et~al.(2023)Sibbesen, Eizenga, Novak, Sir{\'e}n, Chang, Garrison, and Paten]{Sibbesen_2023}
+Jonas~A. Sibbesen, Jordan~M. Eizenga, Adam~M. Novak, Jouni Sir{\'e}n, Xian Chang, Erik Garrison, and Benedict Paten.
+\newblock Haplotype-aware pantranscriptome analyses using spliced pangenome graphs.
+\newblock \emph{Nature Methods}, 20\penalty0 (2):\penalty0 239--247, January 2023.
+\newblock ISSN 1548-7105.
+\newblock \doi{10.1038/s41592-022-01731-9}.
+\newblock URL \url{http://dx.doi.org/10.1038/s41592-022-01731-9}.
+
+\bibitem[Taylor et~al.(2024)Taylor, Chhetri, Tassia, Biddanda, Yan, Wojcik, Battle, and McCoy]{Taylor_2024}
+Dylan~J. Taylor, Surya~B. Chhetri, Michael~G. Tassia, Arjun Biddanda, Stephanie~M. Yan, Genevieve~L. Wojcik, Alexis Battle, and Rajiv~C. McCoy.
+\newblock Sources of gene expression variation in a globally diverse human cohort.
+\newblock \emph{Nature}, 632\penalty0 (8023):\penalty0 122--130, July 2024.
+\newblock ISSN 1476-4687.
+\newblock \doi{10.1038/s41586-024-07708-2}.
+\newblock URL \url{http://dx.doi.org/10.1038/s41586-024-07708-2}.
+
+\end{thebibliography}
